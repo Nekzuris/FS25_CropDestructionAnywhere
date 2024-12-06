@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="93">
+	<author>Nekzuris</author>
+	<version>1.0.0.0</version>
+	<title>
+		<en>Crop Destruction Anywhere</en>
+		<fr>Destruction Des Cultures Partout</fr>
+		<de>Ernteschäden Überall</de>
+	</title>
+	<description>
+<en><![CDATA[
+This mod removes the magical crop protection from fields you don't own for a more realistic experience.
+
+Bug reports and translations on GitHub:
+https://github.com/Nekzuris/FS25_CropDestructionAnywhere
+]]></en>
+<fr><![CDATA[
+Ce mod supprime la protection magique des cultures sur les champs que vous ne possédez pas pour une expérience plus réaliste.
+
+Bugs et traductions sur GitHub :
+https://github.com/Nekzuris/FS25_CropDestructionAnywhere
+]]></fr>
+<de><![CDATA[
+Dieser Mod entfernt den magischen Ernteschutz auf Feldern, die dir nicht gehören, für ein realistischeres Spielerlebnis.
+
+Fehlermeldungen und Übersetzungen auf GitHub:
+https://github.com/Nekzuris/FS25_CropDestructionAnywhere
+]]></de>
+	</description>
+	<multiplayer supported="true"/>
+	<iconFilename>icon_CropDestructionAnywhere.dds</iconFilename>
+	<extraSourceFiles>
+		<sourceFile filename="CropDestructionAnywhere.lua"/>
+	</extraSourceFiles>
+</modDesc>
